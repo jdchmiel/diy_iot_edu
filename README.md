@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to our DIY IoT EDU
 
 You can use the [editor on GitHub](https://github.com/jdchmiel/diy_iot_edu/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
