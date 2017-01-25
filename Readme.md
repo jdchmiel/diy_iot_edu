@@ -37,6 +37,6 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 
 
-This is a [link](https://jdchmiel.github.com/diy_iot_edu/wiki.page2.md) to page2 of the wiki.
+This is a [link](https://jdchmiel.github.com/diy_iot_edu/wiki/page2.md) to page2 of the wiki.
 I kind of hate markdown like this, but it is a lot faster to edit collaboratively than html!
 
