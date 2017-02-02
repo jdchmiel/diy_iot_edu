@@ -9,4 +9,6 @@ Chances are you do not have all of the components ffor this laying around and wi
 #TAKEAWAY
 * If you follow the full tutorial you have built an arduino capable of running sketches.
 * You know the structure of a breadboard pin connection
+* you know how the pin numbering works on a dip form factor chip.
 * You are getting a picture of what additional components might be a good idea to buy and have on hand.
+
